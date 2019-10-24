@@ -41,6 +41,7 @@ h4 {
 .column {
   width: 30%;
   display: inline-block;
+  box-sizing: border-box;
 }
 
 .small {
